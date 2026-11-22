@@ -100,7 +100,7 @@ Docker Compose
 Python 3.10+
 Node.js 18+
 1. Clone Repository
-git clone https://github.com/maddy333/enterprise-ai-copilot.git
+git clone https://github.com/Anastauni12671/enterprise-ai-copilot.git
 cd enterprise-ai-copilot
 2. Configure Environment Variables
 cp .env.example .env
